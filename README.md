@@ -9,7 +9,7 @@ $ git clone git@github.com:yuliyaper/JSON.git
 
 //Внутри локального XML создать файл “new.json”
 
-$ touch new.json
+$ touch new_json
 
 //Добавить файл под гит
 
@@ -25,7 +25,7 @@ $ git push
 
 //Отредактировать содержание файла “new.json”
 
-$vim new. json
+$vim new_json
 
 //Hаписать информацию о себе(ФИО, возраст, количество домашних  животных, будущая желаемая зарплата).Всё написать в формате json
 
