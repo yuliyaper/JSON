@@ -73,6 +73,8 @@ $touch skils.json
 
 $ vim skils.json
 
+нажать i
+
 {"studied skills" : [ "basic testing theory","JSON", "XML","API", "Postman",
 	                   "DeV Tools", "Fidler","SQL"]
 }
