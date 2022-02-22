@@ -7,7 +7,7 @@ Create a new repository
 
 $ git clone git@github.com:yuliyaper/JSON.git
 
-//Внутри локального XML создать файл “new.json”
+//Внутри локального JSON создать файл “new.json”
 
 $ touch new_json
 
